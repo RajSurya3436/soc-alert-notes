@@ -27,7 +27,7 @@ Key findings from the investigation:
 - Header inspection tools
 
 ## ⚠️ Verdict
-- **Risk Level**: High  
+- **Risk Level**: Medium  
 - **Classification**: Phishing (Credential Harvesting / Fake Offer)  
 - **Action Taken**: Sender IP and domain were blacklisted. Email was reported internally. Awareness steps advised for end-user.
 
